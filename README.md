@@ -9,7 +9,7 @@ More information on my blog: https://secure77.de/d-link-dcs-932l-webcam-hacking/
 ## Unpack the Firmware
 
 ```bash
-./dlink_fw.py unpack dcs9321l_v1.14.04.bin
+./dlink_fw.py unpack dcs932l_v1.14.04.bin
 ```
 
 This will create a new folder tmp with all extracted data, don`t touch this folder, you need the files for the packing.
@@ -21,6 +21,6 @@ Make sure you edit the files as root and don´t put to large files into it, as t
 ## Pack the Firmware
 
 ```bash
-./dlink_fw.py pack dcs9321l_v1.14.04.bin.custom
+./dlink_fw.py pack dcs932l_v1.14.04.bin.custom
 ```
 

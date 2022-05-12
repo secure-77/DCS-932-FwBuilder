@@ -13,7 +13,8 @@ More information on my blog: https://secure77.de/d-link-dcs-932l-webcam-hacking/
 ./dlink_fw.py unpack dcs932l_v1.14.04.bin
 ```
 
-This will create a new folder tmp with all extracted data, don`t touch this folder, you need the files for the packing.
+This will create a new folder tmp with all extracted data, don't touch this folder, you need the files for the packing.
+
 You are looking for the folder `root_fs`
 
 Make sure you edit the files as root and don´t put to large files into it, as this archive has a file size limit.

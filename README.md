@@ -1,6 +1,7 @@
 # DCS-932-FwBuilder
 
 Extract and repack the root file system of the firmware 1.14.04 for the Webcam D-Link DCS-932L (Revision A)
+
 Original FW download at: https://ftp.dlink.de/dcs/dcs-932l/driver_software/DCS-932L_fw_reva_114b04_all_en_20170227.zip
 
 More information on my blog: https://secure77.de/d-link-dcs-932l-webcam-hacking/

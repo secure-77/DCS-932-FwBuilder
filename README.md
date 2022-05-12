@@ -1,7 +1,7 @@
 # DCS-932-FwBuilder
 
 Extract and repack the root file system of the firmware 1.14.04 for the Webcam D-Link DCS-932L (Revision A)
-Original FW Download at: https://ftp.dlink.de/dcs/dcs-932l/driver_software/DCS-932L_fw_reva_114b04_all_en_20170227.zip
+Original FW download at: https://ftp.dlink.de/dcs/dcs-932l/driver_software/DCS-932L_fw_reva_114b04_all_en_20170227.zip
 
 More information on my blog: https://secure77.de/d-link-dcs-932l-webcam-hacking/
 
@@ -13,7 +13,7 @@ More information on my blog: https://secure77.de/d-link-dcs-932l-webcam-hacking/
 ```
 
 This will create a new folder tmp with all extracted data, don`t touch this folder, you need the files for the packing.
-You are looking for the folder root_fs
+You are looking for the folder `root_fs`
 
 Make sure you edit the files as root and don´t put to large files into it, as this archive has a file size limit.
 

@@ -1,0 +1,54 @@
+StreamUtils.o StreamUtils.o: StreamUtils.cpp StdAfx.h \
+  ../../Common/MyWindows.h ../../../../config.h \
+  /usr/lib/gcc/x86_64-redhat-linux/4.1.1/include/stddef.h \
+  /usr/include/string.h /usr/include/features.h /usr/include/sys/cdefs.h \
+  /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+  /usr/include/gnu/stubs-64.h /usr/include/xlocale.h \
+  ../../Common/MyGuidDef.h ../../Common/Types.h /usr/include/inttypes.h \
+  /usr/include/stdint.h /usr/include/bits/wchar.h ../../Common/MyCom.h \
+  ../../Common/MyWindows.h StreamUtils.h ../IStream.h \
+  ../../Common/MyUnknown.h ../../Common/Types.h
+
+StdAfx.h:
+
+../../Common/MyWindows.h:
+
+../../../../config.h:
+
+/usr/lib/gcc/x86_64-redhat-linux/4.1.1/include/stddef.h:
+
+/usr/include/string.h:
+
+/usr/include/features.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/bits/wordsize.h:
+
+/usr/include/gnu/stubs.h:
+
+/usr/include/gnu/stubs-64.h:
+
+/usr/include/xlocale.h:
+
+../../Common/MyGuidDef.h:
+
+../../Common/Types.h:
+
+/usr/include/inttypes.h:
+
+/usr/include/stdint.h:
+
+/usr/include/bits/wchar.h:
+
+../../Common/MyCom.h:
+
+../../Common/MyWindows.h:
+
+StreamUtils.h:
+
+../IStream.h:
+
+../../Common/MyUnknown.h:
+
+../../Common/Types.h:

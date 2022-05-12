@@ -1,0 +1,145 @@
+LZMAEncoder.o LZMAEncoder.o: LZMAEncoder.cpp StdAfx.h \
+  ../../../Common/MyWindows.h ../../../../../config.h \
+  /usr/lib/gcc/x86_64-redhat-linux/4.1.1/include/stddef.h \
+  /usr/include/string.h /usr/include/features.h /usr/include/sys/cdefs.h \
+  /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+  /usr/include/gnu/stubs-64.h /usr/include/xlocale.h \
+  ../../../Common/MyGuidDef.h ../../../Common/Types.h \
+  /usr/include/inttypes.h /usr/include/stdint.h /usr/include/bits/wchar.h \
+  ../../../Common/Defs.h ../../Common/StreamUtils.h \
+  ../../Common/../IStream.h ../../Common/../../Common/MyUnknown.h \
+  ../../Common/../../Common/MyWindows.h ../../Common/../../Common/Types.h \
+  LZMAEncoder.h ../../../Common/MyCom.h ../../../Common/MyWindows.h \
+  ../../../Common/Alloc.h ../../ICoder.h ../../IStream.h \
+  ../LZ/IMatchFinder.h ../RangeCoder/RangeCoderBitTree.h \
+  ../RangeCoder/RangeCoderBit.h ../RangeCoder/RangeCoder.h \
+  ../RangeCoder/../../Common/InBuffer.h \
+  ../RangeCoder/../../Common/../IStream.h \
+  ../RangeCoder/../../Common/../../Common/MyCom.h \
+  ../RangeCoder/../../Common/OutBuffer.h ../RangeCoder/RangeCoderOpt.h \
+  LZMA.h ../LZ/BinTree/BinTree4.h ../LZ/BinTree/BinTree.h \
+  ../LZ/BinTree/../LZInWindow.h ../LZ/BinTree/../../../IStream.h \
+  ../LZ/BinTree/../IMatchFinder.h ../LZ/BinTree/BinTreeMain.h \
+  ../LZ/BinTree/../../../../Common/Defs.h \
+  ../LZ/BinTree/../../../../Common/CRC.h \
+  ../LZ/BinTree/../../../../Common/Types.h \
+  ../LZ/BinTree/../../../../Common/Alloc.h ../LZ/HashChain/HC3.h \
+  ../LZ/HashChain/HC.h ../LZ/HashChain/../LZInWindow.h \
+  ../LZ/HashChain/../IMatchFinder.h ../LZ/HashChain/HCMain.h \
+  ../LZ/HashChain/../../../../Common/Defs.h \
+  ../LZ/HashChain/../../../../Common/CRC.h \
+  ../LZ/HashChain/../../../../Common/Alloc.h ../LZ/HashChain/HC4.h
+
+StdAfx.h:
+
+../../../Common/MyWindows.h:
+
+../../../../../config.h:
+
+/usr/lib/gcc/x86_64-redhat-linux/4.1.1/include/stddef.h:
+
+/usr/include/string.h:
+
+/usr/include/features.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/bits/wordsize.h:
+
+/usr/include/gnu/stubs.h:
+
+/usr/include/gnu/stubs-64.h:
+
+/usr/include/xlocale.h:
+
+../../../Common/MyGuidDef.h:
+
+../../../Common/Types.h:
+
+/usr/include/inttypes.h:
+
+/usr/include/stdint.h:
+
+/usr/include/bits/wchar.h:
+
+../../../Common/Defs.h:
+
+../../Common/StreamUtils.h:
+
+../../Common/../IStream.h:
+
+../../Common/../../Common/MyUnknown.h:
+
+../../Common/../../Common/MyWindows.h:
+
+../../Common/../../Common/Types.h:
+
+LZMAEncoder.h:
+
+../../../Common/MyCom.h:
+
+../../../Common/MyWindows.h:
+
+../../../Common/Alloc.h:
+
+../../ICoder.h:
+
+../../IStream.h:
+
+../LZ/IMatchFinder.h:
+
+../RangeCoder/RangeCoderBitTree.h:
+
+../RangeCoder/RangeCoderBit.h:
+
+../RangeCoder/RangeCoder.h:
+
+../RangeCoder/../../Common/InBuffer.h:
+
+../RangeCoder/../../Common/../IStream.h:
+
+../RangeCoder/../../Common/../../Common/MyCom.h:
+
+../RangeCoder/../../Common/OutBuffer.h:
+
+../RangeCoder/RangeCoderOpt.h:
+
+LZMA.h:
+
+../LZ/BinTree/BinTree4.h:
+
+../LZ/BinTree/BinTree.h:
+
+../LZ/BinTree/../LZInWindow.h:
+
+../LZ/BinTree/../../../IStream.h:
+
+../LZ/BinTree/../IMatchFinder.h:
+
+../LZ/BinTree/BinTreeMain.h:
+
+../LZ/BinTree/../../../../Common/Defs.h:
+
+../LZ/BinTree/../../../../Common/CRC.h:
+
+../LZ/BinTree/../../../../Common/Types.h:
+
+../LZ/BinTree/../../../../Common/Alloc.h:
+
+../LZ/HashChain/HC3.h:
+
+../LZ/HashChain/HC.h:
+
+../LZ/HashChain/../LZInWindow.h:
+
+../LZ/HashChain/../IMatchFinder.h:
+
+../LZ/HashChain/HCMain.h:
+
+../LZ/HashChain/../../../../Common/Defs.h:
+
+../LZ/HashChain/../../../../Common/CRC.h:
+
+../LZ/HashChain/../../../../Common/Alloc.h:
+
+../LZ/HashChain/HC4.h:

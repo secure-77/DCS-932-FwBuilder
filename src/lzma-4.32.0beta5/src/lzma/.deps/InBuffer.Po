@@ -1,0 +1,61 @@
+InBuffer.o InBuffer.o: ../sdk/7zip/Common/InBuffer.cpp \
+  ../sdk/7zip/Common/StdAfx.h ../sdk/7zip/Common/../../Common/MyWindows.h \
+  ../../config.h /usr/lib/gcc/x86_64-redhat-linux/4.1.1/include/stddef.h \
+  /usr/include/string.h /usr/include/features.h /usr/include/sys/cdefs.h \
+  /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+  /usr/include/gnu/stubs-64.h /usr/include/xlocale.h \
+  ../sdk/7zip/Common/../../Common/MyGuidDef.h \
+  ../sdk/7zip/Common/../../Common/Types.h /usr/include/inttypes.h \
+  /usr/include/stdint.h /usr/include/bits/wchar.h \
+  ../sdk/7zip/Common/InBuffer.h ../sdk/7zip/Common/../IStream.h \
+  ../sdk/7zip/Common/../../Common/MyUnknown.h \
+  ../sdk/7zip/Common/../../Common/MyWindows.h \
+  ../sdk/7zip/Common/../../Common/Types.h \
+  ../sdk/7zip/Common/../../Common/MyCom.h \
+  ../sdk/7zip/Common/../../Common/Alloc.h
+
+../sdk/7zip/Common/StdAfx.h:
+
+../sdk/7zip/Common/../../Common/MyWindows.h:
+
+../../config.h:
+
+/usr/lib/gcc/x86_64-redhat-linux/4.1.1/include/stddef.h:
+
+/usr/include/string.h:
+
+/usr/include/features.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/bits/wordsize.h:
+
+/usr/include/gnu/stubs.h:
+
+/usr/include/gnu/stubs-64.h:
+
+/usr/include/xlocale.h:
+
+../sdk/7zip/Common/../../Common/MyGuidDef.h:
+
+../sdk/7zip/Common/../../Common/Types.h:
+
+/usr/include/inttypes.h:
+
+/usr/include/stdint.h:
+
+/usr/include/bits/wchar.h:
+
+../sdk/7zip/Common/InBuffer.h:
+
+../sdk/7zip/Common/../IStream.h:
+
+../sdk/7zip/Common/../../Common/MyUnknown.h:
+
+../sdk/7zip/Common/../../Common/MyWindows.h:
+
+../sdk/7zip/Common/../../Common/Types.h:
+
+../sdk/7zip/Common/../../Common/MyCom.h:
+
+../sdk/7zip/Common/../../Common/Alloc.h:

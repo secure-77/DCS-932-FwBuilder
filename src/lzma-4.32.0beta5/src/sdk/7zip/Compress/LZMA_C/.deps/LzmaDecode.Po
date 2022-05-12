@@ -1,0 +1,6 @@
+LzmaDecode.o LzmaDecode.o: LzmaDecode.c LzmaDecode.h \
+  /usr/lib/gcc/x86_64-redhat-linux/4.1.1/include/stddef.h
+
+LzmaDecode.h:
+
+/usr/lib/gcc/x86_64-redhat-linux/4.1.1/include/stddef.h:
